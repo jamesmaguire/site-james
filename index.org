@@ -1,0 +1,28 @@
+#+title: James' favourite stuff
+#+setupfile: index.setup
+
+Just a small collection of my favourite things. Just leaving them here so I can recall them in the future.
+
+* Bushwalks
+- [[https://www.openstreetmap.org/directions?from=&to=-34.08430%2C151.07266#map=19/-34.08428/151.07218][South West Arm Pool]] --- Small estuary in the Royal National Park. Accessible by boat or walking down Winifred Falls Firetrail from Wurumbul Road (4km return). Two or three good jump rocks and rope swings.
+- [[https://www.newzealand.com/au/feature/rob-roy-glacier-track/][Rob Roy Glacier Track]] --- Cool approach down a dirt road, over a bunch of river crossings. Long uphill hike through some stunning landscapes. Rewarding view of Rob Roy Glacier at the end.
+
+* Movies
+- [[https://www.dominionmovement.com/watch][Dominion]] --- Confronting and very difficult to watch. Very important though.
+- [[https://en.wikipedia.org/wiki/Mad_Max:_Fury_Road][Mad Max: Fury Road]] --- Amazing visuals and entertaining characters.
+- [[https://en.wikipedia.org/wiki/The_Book_of_Eli][Book of Eli]] --- Post apocalyptic journey with a big twist at the end.
+- [[https://en.wikipedia.org/wiki/John_Wick_(film)][John Wick]] --- Entertaing.
+
+* Series
+- [[https://en.wikipedia.org/wiki/The_Mandalorian][The Mandalorian]] --- Nostalgic and new perspective to the Star Wars world.
+- [[https://en.wikipedia.org/wiki/Avatar:_The_Last_Airbender][Avatar: The Last Airbender]] --- Easy to watch and some nuggets of wisdom.
+- [[https://www.netflix.com/title/80189685][The Witcher]] --- Great universe and characters.
+- [[https://www.netflix.com/title/80204890][Formula 1: Drive to Survive]] --- Got me into Formula 1.
+- [[https://www.netflix.com/title/81122572][Middleditch & Schwartz]] --- A series of improv comedies on Netflix; very funny.
+
+* TODO Places
+* TODO Books
+
+* Todos                                                            :noexport:
+** TODO Update favicon
+** TODO Serve fonts directly
