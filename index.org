@@ -1,7 +1,7 @@
 #+title: James' favourite stuff
 #+setupfile: index.setup
 
-Just a small collection of my favourite things. Just leaving them here so I can recall them in the future.
+A small collection of my favourite things. Just leaving them here so I can recall them in the future.
 
 * Bushwalks
 - [[https://www.openstreetmap.org/directions?from=&to=-34.08430%2C151.07266#map=19/-34.08428/151.07218][South West Arm Pool]] --- Small estuary in the Royal National Park. Accessible by boat or walking down Winifred Falls Firetrail from Wurumbul Road (4km return). Two or three good jump rocks and rope swings.
