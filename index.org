@@ -20,9 +20,14 @@ A small collection of my favourite things. Just leaving them here so I can recal
 - [[https://www.netflix.com/title/80204890][Formula 1: Drive to Survive]] --- Got me into Formula 1.
 - [[https://www.netflix.com/title/81122572][Middleditch & Schwartz]] --- A series of improv comedies on Netflix; very funny.
 
-* TODO Places
-* TODO Books
+* Books
+- [[https://en.wikipedia.org/wiki/Ender%27s_Game_(novel_series)][Ender's Game Novel Series]] --- Sci-fi that follows a child as he trains to defeat an alien civilisation. I particularly liked the Shadow Series that followed Bean, one of the side characters in Ender's Game.
+- [[https://en.wikipedia.org/wiki/Life_of_Pi][Life of Pi]] --- Philosophical novel following a young boy lost at sea.
+- [[https://en.wikipedia.org/wiki/Becky_Chambers_(author)][Wayfarers Series]] --- Set in a multi-species universe full of nice characters.
+- [[https://en.wikipedia.org/wiki/Sapiens:_A_Brief_History_of_Humankind][Sapiens]] --- Incredibly interesting. The second book, Homo Deus, is also a great read.
+- [[https://en.wikipedia.org/wiki/The_Wheel_of_Time][Wheel of Time Series]] --- Read 3/14 so far, but I like it.
 
+* TODO Places                                                      :noexport:
 * Todos                                                            :noexport:
 ** TODO Update favicon
 ** TODO Serve fonts directly
