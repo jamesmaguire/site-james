@@ -19,6 +19,8 @@ A small collection of my favourite things. Just leaving them here so I can recal
 - [[https://www.netflix.com/title/80189685][The Witcher]] --- Great universe and characters.
 - [[https://www.netflix.com/title/80204890][Formula 1: Drive to Survive]] --- Got me into Formula 1.
 - [[https://www.netflix.com/title/81122572][Middleditch & Schwartz]] --- A series of improv comedies on Netflix; very funny.
+- [[https://en.wikipedia.org/wiki/Fleabag][Fleabag]] --- Dark British humour with a very unique style, commonly
+  breaking the fourth wall for exposition.
 
 * Books
 - [[https://en.wikipedia.org/wiki/Ender%27s_Game_(novel_series)][Ender's Game Novel Series]] --- Sci-fi that follows a child as he trains to defeat an alien civilisation. I particularly liked the Shadow Series that followed Bean, one of the side characters in Ender's Game.
