@@ -43,6 +43,9 @@ function updatewordlist () {
     let locations = locatedletters.map(n => n % 5);
     locatedletters = locatedletters.map(i => letters[i]);
 
+    let intersection = notletters.filter(value => knownletters.includes(value));
+    notletters = notletters.filter(value => intersection.includes(value) === false);
+
     for (let i=0; i<locations.length; i++) {
         output = output.filter(w => w[locations[i]] === locatedletters[i]);
     }
