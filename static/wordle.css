@@ -1,3 +1,4 @@
+
 :root {
   --accent1: #9a2021;
   --accent2: #2574a9;
@@ -61,23 +62,58 @@ h3 {
   margin-bottom: 0.5rem;
 }
 
-input {
+/* Inputs */
+.inputbox {
+  border: 2px solid grey;
+  height: 3rem;
+  text-transform: uppercase;
+  text-align: center;
+  letter-spacing: 1.5ch;
+  padding-left: 1ch;
+  padding-right: 1ch;
+  margin-bottom: 2rem;
+  width: 100%;
+}
+
+.word {
+  text-align: center;
+}
+
+.letter {
+  display: inline-flex;
+  vertical-align: middle;
   text-transform: uppercase;
   border: 2px solid grey;
   height: 3rem;
-  margin: 1rem;
-}
-.singleletter {
   width: 3rem;
-  text-align: center;
+  margin: 0.2rem;
+  cursor: pointer;
+  font-size: 1.5rem;
 }
-.multiletter {
-  width: 24.5rem;
-  max-width: 80%;
-  padding-left: 1rem;
-  letter-spacing: 1rem;
+span {
+  display: flex;
+  justify-content: center;
+  padding-top: 0.25rem;
+}
+.blank {
+}
+.not {
+  color: white;
+  background-color: #797d7f;
+  border-color: #797d7f;
+}
+.known {
+  color: white;
+  background-color: #cab557;
+  border-color: #cab557;
+}
+.located {
+  color: white;
+  background-color: #6aac64;
+  border-color: #6aac64;
 }
 
+/* Outputs */
 .candidate {
   display: inline-block;
   width: 6ch;
