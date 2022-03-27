@@ -54,6 +54,10 @@ function updatewordlist () {
         output = output.filter(w => w.indexOf(notletters[i]) === -1 ? true : false);
     }
 
+    for (let i=0; i<knownletters.length; i++) {
+        output = output.filter(w => w.indexOf(knownletters[i]) !== -1 ? true : false);
+    }
+
     possiblewords.innerHTML = `<div class="candidate"> ${output.join('</div><div class="candidate">')} </div>`;
     updateclasses();
     return output;
