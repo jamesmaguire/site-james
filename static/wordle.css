@@ -73,6 +73,7 @@ h3 {
   padding-right: 1ch;
   margin-bottom: 2rem;
   width: 100%;
+  autocapitalize: characters;
 }
 
 .word {
