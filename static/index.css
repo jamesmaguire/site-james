@@ -38,6 +38,28 @@ h2 {
   margin-bottom: 0.5rem;
 }
 
+h3 {
+  font-family: 'Open Sans',sans;
+  font-size: 120%;
+  font-weight: 600;
+  color: #3d608d;
+  margin-bottom: 0.5rem;
+}
+
+.outline-text-3 {
+  margin-top: 0.5rem;
+  background: #f8fcff;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  padding-right: 1rem;
+  padding-left: 2rem;
+  margin-right: 0rem;
+}
+i {
+  color: #006899;
+  font-style: normal;
+}
+
 a {
   color: #006899;
   text-decoration: none;
@@ -72,8 +94,17 @@ blockquote {
   font-style: italic;
 }
 
+.figure {
+  text-align: center;
+}
 img {
-  width: 100%;
+  max-width: 90%;
+  max-height: 25rem;
+  filter: grayscale(1);
+  transition-duration: 1s;
+}
+img:hover {
+  filter: grayscale(0);
 }
 
 .todo {
