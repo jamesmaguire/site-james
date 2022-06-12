@@ -40,13 +40,16 @@ h2 {
 
 h3 {
   font-family: 'Open Sans',sans;
-  font-size: 120%;
-  font-weight: 600;
-  color: #3d608d;
+  font-size: 100%;
+  font-weight: normal;
+  color: #006899;
   margin-bottom: 0.5rem;
 }
+h3:hover {
+  cursor: pointer;
+}
 
-.outline-text-3 {
+.outline-3 {
   margin-top: 0.5rem;
   background: #f8fcff;
   padding-top: 0.5rem;
@@ -124,4 +127,19 @@ img:hover {
 
 .done {
   display: none;
+}
+
+/* Folding */
+.inactive {
+  display: none;
+}
+.droparrow {
+  height: 0.8rem;
+  margin-right: 0.3rem;
+  transform: rotate(-90deg);
+  transition: 0.2s ease-in-out;
+  fill: #006899;
+}
+.dropped {
+  transform: rotate(0deg);
 }
