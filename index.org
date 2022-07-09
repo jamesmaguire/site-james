@@ -1,5 +1,10 @@
 #+title: James' Journal
 #+setupfile: index.setup
+#+macro: stars1 @@html:<span class="star">&starf;</span>@@
+#+macro: stars2 @@html:<span class="star">&starf;&starf;</span>@@
+#+macro: stars3 @@html:<span class="star">&starf;&starf;&starf;</span>@@
+#+macro: stars4 @@html:<span class="star">&starf;&starf;&starf;&starf;</span>@@
+#+macro: stars5 @@html:<span class="star">&starf;&starf;&starf;&starf;&starf;</span>@@
 
 A collection of notes from movies, shows, walks, books, and trips I've experienced.
 
@@ -63,12 +68,26 @@ This was a trip organised by Mandy. We had 10 people (Myself, Alex, Gemma, Andy,
 [[file:./img/group-small.jpg]]
 
 * Books
-- [[https://en.wikipedia.org/wiki/Ender%27s_Game_(novel_series)][Ender's Game Novel Series]] --- Sci-fi that follows a child as he trains to defeat an alien civilisation. I particularly liked the Shadow Series that followed Bean, one of the side characters in Ender's Game.
-- [[https://en.wikipedia.org/wiki/Life_of_Pi][Life of Pi]] --- Philosophical novel following a young boy lost at sea.
-- [[https://en.wikipedia.org/wiki/Becky_Chambers_(author)][Wayfarers Series]] --- Set in a multi-species universe full of nice characters.
-- [[https://en.wikipedia.org/wiki/Sapiens:_A_Brief_History_of_Humankind][Sapiens]] --- Incredibly interesting. The second book, Homo Deus, is also a great read.
-- [[https://en.wikipedia.org/wiki/The_Wheel_of_Time][Wheel of Time Series]] --- Read 3/14 so far, but I like it.
-- [[https://en.wikipedia.org/wiki/Slapstick_%28novel%29][Slapstick]] --- A bizzare story with a meandering plot, but jammed full of thought provoking ideas and very entertaining read.
+** Earlier
+- [[https://en.wikipedia.org/wiki/Ender%27s_Game_(novel_series)][Ender's Game Novel Series]], Orson Scott Card --- Sci-fi that follows a child as he trains to defeat an alien civilisation. I particularly liked the Shadow Series that followed Bean, one of the side characters in Ender's Game. {{{stars4}}}
+- [[https://en.wikipedia.org/wiki/Life_of_Pi][Life of Pi]], Yann Martel --- Philosophical novel following a young boy lost at sea. {{{stars4}}}
+- [[https://en.wikipedia.org/wiki/Becky_Chambers_(author)][Wayfarers Series]], Becky Chambers --- Set in a multi-species universe full of nice characters. {{{stars4}}}
+- [[https://en.wikipedia.org/wiki/Sapiens:_A_Brief_History_of_Humankind][Sapiens]], Yuval Noah Harari --- Incredibly interesting. The second book, Homo Deus, is also a great read. {{{stars4}}}
+- [[https://en.wikipedia.org/wiki/The_Wheel_of_Time][Wheel of Time Series]], Robert Jordan --- Read 3/14 so far, but I like it. {{{stars3}}}
+
+** 2022
+- [[https://en.wikipedia.org/wiki/Flowers_for_Algernon][Flowers for Algernon]], Daniel Keyes --- About an experiment used to increase the intelligence of a mentally challenged patient. Interesting style of writing and emotional story. {{{stars3}}}
+- [[https://www.goodreads.com/book/show/35068705-the-poppy-war][The Poppy War]], RF Kuang --- Great story about a girl who gets into a military school and learns of her rare magical abilities. Didn't like the main character much and the writing wasn't the best, but entertaining read. {{{stars3}}}
+- [[https://en.wikipedia.org/wiki/To_Be_Taught,_if_Fortunate][To Be Taught, If Fortunate]] - Becky Chambers --- A team of astronauts are sent to ethically research four different planets and their species. Thought provoking, interesting and very good ending. {{{stars4}}}
+- [[https://en.wikipedia.org/wiki/I_Am_Legend_(novel)][I Am Legend]], Richard Matheson --- Great moral twist at the end of the book which isn't in the Will Smith film, coming from a post-apocalyptic vampire world. {{{stars3}}}
+- [[https://en.wikipedia.org/wiki/Slapstick_%28novel%29][Slapstick]], Kurt Vonnegut --- A bizarre story with a meandering plot, but jammed full of thought provoking ideas and very entertaining read. {{{stars5}}}
+
+** To read next:
+- [[https://en.wikipedia.org/wiki/Who_Fears_Death][Who Fears Death]], Nnedi Okorafor
+- [[https://en.wikipedia.org/wiki/Mort][Mort]], Terry Pratchett --- Discworld 4
+- [[https://en.wikipedia.org/wiki/Slaughterhouse-Five][Slaughterhouse-five]], Kurt Vonnegut
+- [[https://en.wikipedia.org/wiki/The_City_and_the_Stars][The City and the Stars]], Arthur C Clarke
+- [[https://en.wikipedia.org/wiki/The_Three-Body_Problem_(novel)][The Three Body Problem]], Cixin Liu
 
 * TODO Places                                                      :noexport:
 * Todos                                                            :noexport:

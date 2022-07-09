@@ -143,3 +143,7 @@ img:hover {
 .dropped {
   transform: rotate(0deg);
 }
+
+.star {
+  color: #3d608d;
+}
