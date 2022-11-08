@@ -28,6 +28,7 @@ A collection of notes from movies, shows, walks, books, and trips I've experienc
 - [[https://www.netflix.com/title/81122572][Middleditch & Schwartz]] --- A series of improv comedies on Netflix; very funny.
 - [[https://en.wikipedia.org/wiki/Fleabag][Fleabag]] --- Dark British humour with a very unique style, commonly
   breaking the fourth wall for exposition.
+- [[https://en.wikipedia.org/wiki/Inside_Man_(2022_TV_series)][Inside Man]] --- British drama/crime mystery focused on an ex-criminologist solving cases on death row and a vicar caught up in a rapidly devolving situation with increasing stakes.
 
 * Trips
 ** Whitsundays sailing --- May 2022
