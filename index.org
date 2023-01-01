@@ -14,22 +14,28 @@ A collection of notes from movies, shows, walks, books, and trips I've experienc
 - [[https://www.nationalparks.nsw.gov.au/things-to-do/walking-tracks/grand-canyon-track][Grand Canyon Track]] --- In the Blue Mountains, this track is lined with gloworms at night. Pretty amazing on a starry night.
 
 * Movies
-- [[https://www.dominionmovement.com/watch][Dominion]] --- Confronting and very difficult to watch. Very important though.
-- [[https://en.wikipedia.org/wiki/Mad_Max:_Fury_Road][Mad Max: Fury Road]] --- Amazing visuals and entertaining characters.
-- [[https://en.wikipedia.org/wiki/The_Book_of_Eli][Book of Eli]] --- Post apocalyptic journey with a big twist at the end.
-- [[https://en.wikipedia.org/wiki/John_Wick_(film)][John Wick]] --- Perfect balance of unrealistic action and fun.
-- [[https://en.wikipedia.org/wiki/Knives_Out][Knives Out]] --- Murder mystery following the investigation of the murder of the patriarch of a wealthy and dysfunctional family, starring Daniel Craig. Really enjoyed with a few interesting plot twists.
-- [[https://en.wikipedia.org/wiki/Avatar:_The_Way_of_Water][Avatar: The Way of Water]] --- An experience. The world building and sea creatures in this epic movie were breathtaking. Spirituality and connection to nature are strong themes and the execution was spot on.
+** 2022
+- [[https://en.wikipedia.org/wiki/Avatar:_The_Way_of_Water][Avatar: The Way of Water]] --- An experience. The world building and sea creatures in this epic movie were breathtaking. Spirituality and connection to nature are strong themes and the execution was spot on. {{{stars5}}}
+- [[https://en.wikipedia.org/wiki/Knives_Out][Knives Out]] --- Murder mystery following the investigation of the murder of the patriarch of a wealthy and dysfunctional family, starring Daniel Craig. Really enjoyed with a few interesting plot twists. {{{stars5}}}
+** Earlier
+- [[https://www.dominionmovement.com/watch][Dominion]] --- Confronting and very difficult to watch. Very important though. {{{stars3}}}
+- [[https://en.wikipedia.org/wiki/Mad_Max:_Fury_Road][Mad Max: Fury Road]] --- Amazing visuals and entertaining characters. {{{stars4}}}
+- [[https://en.wikipedia.org/wiki/The_Book_of_Eli][Book of Eli]] --- Post apocalyptic journey with a big twist at the end. {{{stars4}}}
+- [[https://en.wikipedia.org/wiki/John_Wick_(film)][John Wick]] --- Perfect balance of unrealistic action and fun. {{{stars4}}}
 
 * Series
-- [[https://en.wikipedia.org/wiki/The_Mandalorian][The Mandalorian]] --- Nostalgic, yet new perspective to the Star Wars world.
-- [[https://en.wikipedia.org/wiki/Avatar:_The_Last_Airbender][Avatar: The Last Airbender]] --- Easy to watch and some nuggets of wisdom.
-- [[https://www.netflix.com/title/80189685][The Witcher]] --- Great universe and characters.
-- [[https://www.netflix.com/title/80204890][Formula 1: Drive to Survive]] --- Got me into Formula 1.
-- [[https://www.netflix.com/title/81122572][Middleditch & Schwartz]] --- A series of improv comedies on Netflix; very funny.
+** 2023
+- [[https://en.wikipedia.org/wiki/Wednesday_(TV_series)][Wednesday]] --- Adaptation of The Addams Family, focusing on the Daughter Wednesday. Good little who-done-it teen mystery. {{{stars3}}}
+** 2022
+- [[https://en.wikipedia.org/wiki/Inside_Man_(2022_TV_series)][Inside Man]] --- British drama/crime mystery focused on an ex-criminologist solving cases on death row and a vicar caught up in a rapidly devolving situation with increasing stakes. {{{stars3}}}
+** Earlier
+- [[https://en.wikipedia.org/wiki/The_Mandalorian][The Mandalorian]] --- Nostalgic, yet new perspective to the Star Wars world. {{{stars5}}}
+- [[https://en.wikipedia.org/wiki/Avatar:_The_Last_Airbender][Avatar: The Last Airbender]] --- Easy to watch and some nuggets of wisdom. {{{stars3}}}
+- [[https://www.netflix.com/title/80189685][The Witcher]] --- Great universe and characters. {{{stars4}}}
+- [[https://www.netflix.com/title/80204890][Formula 1: Drive to Survive]] --- Got me into Formula 1. {{{stars3}}}
+- [[https://www.netflix.com/title/81122572][Middleditch & Schwartz]] --- A series of improv comedies on Netflix; very funny. {{{stars4}}}
 - [[https://en.wikipedia.org/wiki/Fleabag][Fleabag]] --- Dark British humour with a very unique style, commonly
-  breaking the fourth wall for exposition.
-- [[https://en.wikipedia.org/wiki/Inside_Man_(2022_TV_series)][Inside Man]] --- British drama/crime mystery focused on an ex-criminologist solving cases on death row and a vicar caught up in a rapidly devolving situation with increasing stakes.
+  breaking the fourth wall for exposition. {{{stars5}}}
 
 * Trips
 ** Lauren and Scott's wedding (Adelaide) --- Dec 2022
@@ -126,19 +132,19 @@ This was a trip organised by Mandy. We had 10 people (Myself, Alex, Gemma, Andy,
 [[file:./img/group-small.jpg]]
 
 * Books
-** Earlier
-- [[https://en.wikipedia.org/wiki/Ender%27s_Game_(novel_series)][Ender's Game Novel Series]], Orson Scott Card --- Sci-fi that follows a child as he trains to defeat an alien civilisation. I particularly liked the Shadow Series that followed Bean, one of the side characters in Ender's Game. {{{stars4}}}
-- [[https://en.wikipedia.org/wiki/Life_of_Pi][Life of Pi]], Yann Martel --- Philosophical novel following a young boy lost at sea. {{{stars4}}}
-- [[https://en.wikipedia.org/wiki/Becky_Chambers_(author)][Wayfarers Series]], Becky Chambers --- Set in a multi-species universe full of nice characters. {{{stars4}}}
-- [[https://en.wikipedia.org/wiki/Sapiens:_A_Brief_History_of_Humankind][Sapiens]], Yuval Noah Harari --- Incredibly interesting. The second book, Homo Deus, is also a great read. {{{stars4}}}
-- [[https://en.wikipedia.org/wiki/The_Wheel_of_Time][Wheel of Time Series]], Robert Jordan --- Read 3/14 so far, but I like it. {{{stars3}}}
-
 ** 2022
 - [[https://en.wikipedia.org/wiki/Flowers_for_Algernon][Flowers for Algernon]], Daniel Keyes --- About an experiment used to increase the intelligence of a mentally challenged patient. Interesting style of writing and emotional story. {{{stars3}}}
 - [[https://www.goodreads.com/book/show/35068705-the-poppy-war][The Poppy War]], RF Kuang --- Great story about a girl who gets into a military school and learns of her rare magical abilities. Didn't like the main character much and the writing wasn't the best, but entertaining read. {{{stars3}}}
 - [[https://en.wikipedia.org/wiki/To_Be_Taught,_if_Fortunate][To Be Taught, If Fortunate]] - Becky Chambers --- A team of astronauts are sent to ethically research four different planets and their species. Thought provoking, interesting and very good ending. {{{stars4}}}
 - [[https://en.wikipedia.org/wiki/I_Am_Legend_(novel)][I Am Legend]], Richard Matheson --- Great moral twist at the end of the book which isn't in the Will Smith film, coming from a post-apocalyptic vampire world. {{{stars3}}}
 - [[https://en.wikipedia.org/wiki/Slapstick_%28novel%29][Slapstick]], Kurt Vonnegut --- A bizarre story with a meandering plot, but jammed full of thought provoking ideas and very entertaining read. {{{stars5}}}
+
+** Earlier
+- [[https://en.wikipedia.org/wiki/Ender%27s_Game_(novel_series)][Ender's Game Novel Series]], Orson Scott Card --- Sci-fi that follows a child as he trains to defeat an alien civilisation. I particularly liked the Shadow Series that followed Bean, one of the side characters in Ender's Game. {{{stars4}}}
+- [[https://en.wikipedia.org/wiki/Life_of_Pi][Life of Pi]], Yann Martel --- Philosophical novel following a young boy lost at sea. {{{stars4}}}
+- [[https://en.wikipedia.org/wiki/Becky_Chambers_(author)][Wayfarers Series]], Becky Chambers --- Set in a multi-species universe full of nice characters. {{{stars4}}}
+- [[https://en.wikipedia.org/wiki/Sapiens:_A_Brief_History_of_Humankind][Sapiens]], Yuval Noah Harari --- Incredibly interesting. The second book, Homo Deus, is also a great read. {{{stars4}}}
+- [[https://en.wikipedia.org/wiki/The_Wheel_of_Time][Wheel of Time Series]], Robert Jordan --- Read 3/14 so far, but I like it. {{{stars3}}}
 
 ** To read next:
 - [[https://en.wikipedia.org/wiki/Who_Fears_Death][Who Fears Death]], Nnedi Okorafor
